@@ -1,1 +1,1 @@
-# uwezo-int-pro
+# E-commerce Template
